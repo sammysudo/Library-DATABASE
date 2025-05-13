@@ -8,8 +8,5 @@ This project is a database management system designed for managing a library. It
 2. Import the `.sql` file into your MySQL database.
 3. Run the SQL statements to create and populate the tables.
 
-## ERD
-[Include a screenshot or link to your ER Diagram here]
-
 ## Repository Contents
 - `library_management_system.sql`: Contains all the SQL statements for creating tables and relationships.
